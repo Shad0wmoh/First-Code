@@ -50,7 +50,9 @@ body {
 }
 .left-container {
   position: relative;
-  width: 50%;
+  width: 30%;
+  float: left;
+  margin: 0;
 }
 
 .imageLeft {
@@ -89,7 +91,9 @@ body {
 }
 .center-container {
   position: relative;
-  width: 50%;
+  width: 30%;
+  float: left;
+  margin: 0;
 }
 
 .imageCenter {
@@ -128,7 +132,9 @@ body {
 }
 .right-container {
   position: relative;
-  width: 50%;
+  width: 30%;
+  float: left;
+  margin: 0;
 }
 
 .imageRight {
